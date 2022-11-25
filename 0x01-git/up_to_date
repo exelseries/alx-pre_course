@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 touch up_to_date
+=======
+git pull
+touch up_to_date > up_to_date
+>>>>>>> e37354c648fbaecdc1ae8b91de67d06f753dcf0c
